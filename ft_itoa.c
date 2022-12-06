@@ -31,7 +31,7 @@ static char	*ft_strrev(char *str, int startpos)
 {
 	int		i;
 	int		len;
-	char	tmp;
+	char		tmp;
 
 	i = startpos;
 	len = ft_strlen(str) - 1;
